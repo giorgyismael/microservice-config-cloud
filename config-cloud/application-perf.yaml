@@ -3,8 +3,8 @@ spring:
     name: Microservice-Cloud
     
 greeting-service:
-  greeting: "Hola"
-  default-value: "Mundo"
+  greeting: "Holaaaa"
+  default-value: "Mundo, bien venido!"
   
 management:
   endpoints:
